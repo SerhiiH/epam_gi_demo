@@ -1,3 +1,5 @@
 Main Branch - 1st line
 
 Feature Branch - 1st line
+
+Checksum when file is only staged but not committed
