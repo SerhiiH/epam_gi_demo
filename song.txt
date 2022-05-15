@@ -1,2 +1,4 @@
 Famous Ukrainian song
 Anthym of Ukraine
+
+New line in detached mode
